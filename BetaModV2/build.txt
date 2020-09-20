@@ -1,0 +1,3 @@
+displayName = BetaTestingMod
+author = Pedguinarmy12 & Cryptic Code
+version = 0.1

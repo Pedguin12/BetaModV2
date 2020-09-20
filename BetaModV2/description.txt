@@ -1,0 +1,1 @@
+BetaTestingMod is a Mod made by Pedguinarmy12 & CrypticCode, made for the sole purpose of learning how to code and learn the basics of modding. This will not be a complete mod, so that means it won't be fully polished and will also have bugs. Thank you for taking notice in our little project! -Pedguinarmy12
